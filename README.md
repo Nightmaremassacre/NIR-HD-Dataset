@@ -21,6 +21,7 @@ The dataset also includes various human poses and angles, such as:
 ## Data Annotation for Object Detection
 The images in the dataset have been annotated for object detection purposes. Below are some examples of the collected data:
 
-(Note: Images would be inserted here in a real markdown document.)
+![Example Image](/dataset.png)
+![Example Image](/dataset_detect.png)
 
 These examples illustrate the diversity of scenarios and conditions present in the NIR-HD dataset, making it a valuable resource for research and development in the field of near-infrared human detection.
